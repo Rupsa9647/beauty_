@@ -1,0 +1,16 @@
+langchain-groq
+langchain
+chromadb
+psycopg2-binary
+beautifulsoup4
+requests
+pandas
+python-dotenv
+sentence-transformers
+
+
+
+streamlit
+beautifulsoup4
+requests
+lxml
