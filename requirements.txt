@@ -14,3 +14,5 @@ streamlit
 beautifulsoup4
 requests
 lxml
+
+playwright
